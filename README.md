@@ -38,3 +38,8 @@ struct LibQOI::Image
   uint8_t colorspace; // 0: sRGB, linear aplha, 1: linear
 } __attribute__((packed));
 ```
+
+# How to build
+
+Use CMake. CMakeLists.txt is at CMake/CMakeLists.txt.
+If you are on linux you can also run build which is a script but without the .sh extension.
