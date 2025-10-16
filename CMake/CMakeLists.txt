@@ -14,7 +14,3 @@ file(GLOB_RECURSE SRC_FILES "${PROJECT_ROOT_DIR}/src/*.cpp")
 add_library(${PROJECT_NAME} STATIC ${SRC_FILES})
 
 target_include_directories(${PROJECT_NAME} PRIVATE ${PROJECT_ROOT_DIR}/headers)
-
-find_package(glfw3 REQUIRED)
-find_package(OpenGL REQUIRED)
-target_link_libraries(QOI PRIVATE glfw OpenGL::GL)
