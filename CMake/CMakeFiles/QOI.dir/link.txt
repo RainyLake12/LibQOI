@@ -1,2 +1,0 @@
-/usr/bin/ar qc "/home/rainylake/My Projects/qoi/bin/libQOI.a" CMakeFiles/QOI.dir/home/rainylake/My_Projects/qoi/src/decode.cpp.o CMakeFiles/QOI.dir/home/rainylake/My_Projects/qoi/src/encode.cpp.o CMakeFiles/QOI.dir/home/rainylake/My_Projects/qoi/src/util.cpp.o
-/usr/bin/ranlib "/home/rainylake/My Projects/qoi/bin/libQOI.a"

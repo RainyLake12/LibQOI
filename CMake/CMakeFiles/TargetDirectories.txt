@@ -1,3 +1,0 @@
-/home/rainylake/My Projects/qoi/CMake/CMakeFiles/QOI.dir
-/home/rainylake/My Projects/qoi/CMake/CMakeFiles/edit_cache.dir
-/home/rainylake/My Projects/qoi/CMake/CMakeFiles/rebuild_cache.dir
