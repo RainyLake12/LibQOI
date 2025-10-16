@@ -1,1 +1,4 @@
 release/
+CMake/*
+!CMake/CMakeLists.txt
+qoi_test_images/
