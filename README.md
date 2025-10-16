@@ -42,4 +42,6 @@ struct LibQOI::Image
 # How to build
 
 Use CMake. CMakeLists.txt is at CMake/CMakeLists.txt.
-If you are on linux you can also run build which is a script but without the .sh extension.
+If you are on linux you can also run build.sh to build the file.
+The output will be in bin/.
+If the script fails make the bin/ folder then try again.
